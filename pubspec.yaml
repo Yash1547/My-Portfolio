@@ -51,7 +51,6 @@ flutter:
     - assets/icons/
     - assets/images/
     - assets/images/IMG_20230307_124339_249.jpg
-    - assets/images/y.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
