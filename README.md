@@ -10,4 +10,4 @@ Live Demo at [Click Here](https://my-portfolio-d7547.web.app)
 Web | Mobile |
 |:---:| :---: |
 
-| ![Menu](https://raw.githubusercontent.com/shashiben/portfolio/master/screenshots/web/menu_web.png)| ![Menu](https://raw.githubusercontent.com/shashiben/portfolio/master/screenshots/mobile/menu_mobile.png) |
+| ![Menu](https://github.com/Yash1547/My-Portfolio/blob/main/ss/desktop.png)| ![Menu](https://github.com/Yash1547/My-Portfolio/blob/main/ss/mobile.png) |
